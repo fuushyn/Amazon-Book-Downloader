@@ -1,0 +1,26 @@
+{
+  "name": "A2Z book downloader",
+  "version": "0.1",
+  "description": "An extension to download books from amazon",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://*/*","http://*/*"],
+      "js": ["content_script.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+
+"host_permissions": [
+  "http://amazon.com/*",
+  "http://amazon.in/*"
+]
+
+
+  
+  
+
+}
