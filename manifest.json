@@ -18,6 +18,12 @@
   "http://amazon.com/*",
   "http://amazon.in/*"
 ]
+,
+"icons": {
+  "16": "assets/bezos.png",
+  "48": "assets/bezos.png",
+  "128": "assets/bezos.png"
+}
 
 
   
