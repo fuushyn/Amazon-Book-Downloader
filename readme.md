@@ -6,7 +6,7 @@ Amazon Book Downloader
 Demo
 ---
 
-<img src="assets/demoslow.gif" width="500">
+<img src="assets/demoslow.gif" width="800">
 
 
 Setup
